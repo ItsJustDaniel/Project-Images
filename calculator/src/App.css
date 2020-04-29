@@ -1,0 +1,18 @@
+#root-container {
+  display: flex;
+  margin: auto;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+#calculator {
+  display: flex;
+  background-color: black;
+  width: 330px;
+  height: 370px;
+  color: white;
+  flex-direction: column;
+  border: solid black;
+}

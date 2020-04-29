@@ -1,0 +1,14 @@
+#timer-container {
+  display: flex;
+  border: solid;
+  border-radius: 10px;
+  margin: 50px auto;
+  width: 30vw;
+  justify-content: center;
+  flex-direction: column;
+  height: 20vh;
+}
+
+#time-left {
+  font-size: 50px;
+}

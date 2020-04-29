@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+}
+
+#drum-machine {
+  display: flex;
+  justify-content: center;
+}
+#drum-container {
+  width: 353px;
+  height: 206px;
+  border: solid;
+}
+
+#drumButs {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  height: 205px;
+}
+
+.drum-pad {
+  width: 117.6px;
+  height: 68.5px;
+}
+
+#display {
+  border: solid;
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#info {
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  border: solid;
+  height: 35px;
+}

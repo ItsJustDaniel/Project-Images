@@ -1,0 +1,24 @@
+#markDown {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+#editor {
+  width: 580px;
+  height: 500px;
+  background-color: rgb(67.8%, 84.2%, 90.2%);
+  border: solid;
+  overflow-y: scroll;
+}
+
+#preview {
+  border: solid;
+  width: 580px;
+  height: 500px;
+  background-color: teal;
+  overflow-y: scroll;
+}
